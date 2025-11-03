@@ -60,11 +60,14 @@ Type a sentence like:
 and get output such as:
 Predicted Emotion: joy
 
-<br>
+
 <br> **Screenshots:** <br>
 <br>
 <img width="812" height="693" alt="image" src="https://github.com/user-attachments/assets/de02ae97-d14b-4754-9f93-801ec08c1197"/> 
-&ensp;
+<br>
 <img width="812" height="693" alt="image" src="https://github.com/user-attachments/assets/98973ded-396b-4f91-8b55-3868b4df0bec"/>
+<br>
+<img width="812" height="693" alt="image" src="https://github.com/user-attachments/assets/e7fa433d-6e50-4e82-957b-36230e03ae55"/>
+
 
 
